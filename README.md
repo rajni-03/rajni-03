@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Rajni 👋
 
-<!--
-**rajni-03/rajni-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 .NET Developer with 3.6+ years of experience building scalable enterprise systems
 
-Here are some ideas to get you started:
+💡 Expertise in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C#, .NET, REST APIs
+* Azure (Functions, Service Bus, Key Vault, API Management)
+* Distributed system design
+
+🌟 Currently building:
+AI-powered cloud ordering system using .NET, Azure & Blazor
+
+🔥 Key Achievements:
+
+* Built APIs used across multiple systems
+* Implemented server-side pagination for performance optimization
+* Worked on cloud integrations with enterprise systems
+
+📌 Tech Stack:
+C# | .NET | Azure | SQL | Blazor
+
+📫 Connect with me:
+[LinkedIn](www.linkedin.com/in/rajni-sharma-23550a201)
